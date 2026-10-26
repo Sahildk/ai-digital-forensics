@@ -1,47 +1,60 @@
 # AI in Advanced Digital Forensics
 
-A self-learning project exploring the applications, benefits, challenges, and future scope of Artificial Intelligence in Advanced Digital Forensics.
+A self-learning project exploring the applications, benefits, challenges, and future scope of Artificial Intelligence (AI) in Advanced Digital Forensics.
 
-## 📄 Read the Article
+## 📄 Stage 1: Article Writing
 
-[**The Role of Artificial Intelligence in Advanced Digital Forensics**](ai-in-advanced-digital-forensics.md)
+### The Role of Artificial Intelligence in Advanced Digital Forensics
 
-### Article Summary
+[**Read the Full Article**](ai-in-advanced-digital-forensics.md)
 
-This article explores how Artificial Intelligence supports digital evidence analysis, anomaly detection, malware investigation, and mobile and cloud forensics. It discusses the benefits of AI, including faster analysis and improved evidence prioritisation, alongside challenges such as false positives, explainability, privacy, and evidence integrity.
+**Summary:** This article explores how AI supports digital evidence analysis, anomaly detection, malware investigation, and mobile and cloud forensics. It discusses the benefits of AI, its limitations, and the importance of evidence integrity, human verification, and responsible AI use.
 
-The article also examines the future of AI-assisted forensic investigations and emphasises the importance of human oversight and reliable forensic procedures.
-
-## 🎥 Video Presentation
+## 🎥 Stage 2: Video Creation
 
 **Topic:** The Role of Artificial Intelligence in Advanced Digital Forensics
 
-This presentation explains the digital forensic investigation process, key applications of AI, a practical investigation scenario, the benefits and limitations of AI, and future developments in the field.
+The presentation explains the digital forensic investigation process, key applications of AI, a practical case example, benefits and challenges, and future developments.
 
-[**▶️ View the Video Presentation**](Self-Learning%20Assessment%20Stage%202%20Activity%202%20-%20Video%20Creation.pptx)
+[**View the Stage 2 Presentation**](Self-Learning%20Assessment%20Stage%202%20Activity%202%20-%20Video%20Creation.pptx)
 
-## 📚 Key Topics Covered
+## 📝 Stage 3: Reflection & Presentation
 
-- Fundamentals of digital forensics
-- AI-assisted digital evidence analysis
-- Anomaly detection and malware investigation
-- Mobile and cloud forensics
-- Benefits, challenges, and limitations of AI
-- Future scope of AI in digital forensics
-- Evidence integrity and human oversight
+This activity reflects on my self-learning journey, including research, article writing, presentation preparation, and the skills developed throughout the process.
 
-## 📖 References
+The reflection covers:
+- Technical knowledge gained in AI and digital forensics.
+- Research, writing, communication, and presentation skills.
+- Tools and learning resources used.
+- The relevance of self-learning to future career development.
 
-- NIST SP 800-86 — *Guide to Integrating Forensic Techniques into Incident Response*
-- NIST AI Risk Management Framework (AI RMF 1.0)
-- Scientific Working Group on Digital Evidence (SWGDE) — Digital evidence guidance
+[**View the Stage 3 Reflection Report**](Self-Learning%20Assessment%20Stage%203%20Reflection%20%26%20Presentation.docx)
 
-## 🎓 Academic Information
+## 🛠️ Tools and Resources
+
+- **Gamma AI** — Presentation creation.
+- **Microsoft PowerPoint** — Slide review and presentation.
+- **GitHub** — Publishing and organising project materials.
+- **NIST SP 800-86** — Guide to Integrating Forensic Techniques into Incident Response.
+- **NIST AI Risk Management Framework (AI RMF 1.0).**
+- **SWGDE** — Digital evidence guidance and best practices.
+
+## 🎯 Key Learning Outcomes
+
+- Understanding the fundamentals of digital forensics.
+- Exploring AI-assisted evidence analysis and anomaly detection.
+- Recognising the limitations and risks of AI in forensic investigations.
+- Developing research, technical writing, and presentation skills.
+- Understanding the importance of evidence integrity and human oversight.
+
+## 👨‍🎓 Academic Information
 
 - **Course:** Advanced Digital Forensics
-- **Activity 1:** Article Writing
-- **Activity 2:** Video Creation
+- **Assessment:** Self-Learning Assessment
+- **Stage 1:** Article Writing
+- **Stage 2:** Video Creation
+- **Stage 3:** Reflection & Presentation
 
 ---
 
-*Created as part of the Self-Learning Assessment for Advanced Digital Forensics.*
+*This repository documents my self-learning activities in Advanced Digital Forensics.*
